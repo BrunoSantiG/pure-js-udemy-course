@@ -451,7 +451,7 @@ class DropBoxController {
           </g>
         </svg>`
       case 'image/jpeg':
-      case 'image/jpge':
+      case 'image/jpg':
       case 'image/png':
       case 'image/gif':
       case 'image/svg+xml':

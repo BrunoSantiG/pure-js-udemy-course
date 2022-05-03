@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido como exemplo do Curso Completo de JavaScript na Udemy.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js",
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/firestore": "2.4.0",
+    "firebase": "^7.15.5",
+    "pdfjs-dist": "^2.0.489",
+    "webpack": "^3.1.0",
+    "webpack-dev-server": "^2.5.1"
+  }
+}
